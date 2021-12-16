@@ -1,7 +1,7 @@
 ---
 title: 1716小博客
 role: 用网页记录一下吧~
-avatar_filename: 合照1.jpg
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
